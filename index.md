@@ -3,3 +3,6 @@
 ```C
 int Word = "Program"
 ```
+- [x] Check first task
+- [ ] Second task
+- [ ] Final Task
